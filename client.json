@@ -1,0 +1,11 @@
+{
+"client": {
+  "name": "SensuClient",
+  "address": "10.211.55.169",
+  "environment": "development",
+  "subscriptions": [
+    "dev",
+    "development"
+  ]
+ }
+}
